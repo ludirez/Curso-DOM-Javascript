@@ -1,0 +1,1 @@
+web www.gitignore.io        ->para ayudar a crear un git ignore versátil y util 
